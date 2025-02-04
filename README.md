@@ -1,5 +1,8 @@
-Hello! My name is Thu Vu.
+✨Hello! My name is Thu Vu.✨
 
+I am currently a Computer Engineering and General Business Admin student.
+  - Working towards a Google Cybersecurity Professional Certificate
+  - Looking for internships...
 
 
 <!--
